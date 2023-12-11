@@ -19,7 +19,7 @@ namespace yaztemizle
 
         private void BtnYaz_Click(object sender, EventArgs e)
         {
-            textYazı.Text = "DİLAN KAYA";
+            textYazı.Text = "Beyzanur Tanyeli";
         }
 
         private void textYazı_TextChanged(object sender, EventArgs e)
