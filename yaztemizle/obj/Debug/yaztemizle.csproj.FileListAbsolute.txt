@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\yaztemizle\yaztemizle\bin\Debug\yaztemizle.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\yaztemizle\yaztemizle\bin\Debug\yaztemizle.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\yaztemizle\yaztemizle\bin\Debug\yaztemizle.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\yaztemizle\yaztemizle\obj\Debug\yaztemizle.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\yaztemizle\yaztemizle\obj\Debug\yaztemizle.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\yaztemizle\yaztemizle\obj\Debug\yaztemizle.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\yaztemizle\yaztemizle\obj\Debug\yaztemizle.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\yaztemizle\yaztemizle\obj\Debug\yaztemizle.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\yaztemizle\yaztemizle\obj\Debug\yaztemizle.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\yaztemizle\yaztemizle\obj\Debug\yaztemizle.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\yaztemizle\yaztemizle\obj\Debug\yaztemizle.pdb
